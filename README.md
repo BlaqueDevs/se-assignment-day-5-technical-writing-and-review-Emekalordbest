@@ -28,6 +28,12 @@
 1. Because I am writing to a large audience which would include tech-savvy and regular folks. This way, all can be able to comprehend the document.
    
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
+ I will start with the following illustration;
+ 1. Complex Term like Terminate "You must terminate the program after the operation can be used thus: "You must end the program after the operation finishes.
+"Why It Works: "Terminate" can sound technical or even harsh, while "end" is a straightforward word that everyone understands.
+2. complex term like 'initiate'-"To initiate the installation process, click the 'Install' button. Can be written as: "To start the installation process, click the 'Install' button.
+   "Why It Works: "Start" is a familiar, everyday term that doesn't require additional explanation, making it clear what action is needed.
+   
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
